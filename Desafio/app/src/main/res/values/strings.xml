@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Desafio</string>
+    <string name="nome_produto">Notebook Odyssey</string>
+    <string name="valor_produto">$800</string>
+    <string name="promocao">20% off</string>
+    <string name="nome_marca">Samsung</string>
+</resources>
